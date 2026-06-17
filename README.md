@@ -108,3 +108,20 @@ We developed a **Smart Attendance System** using RFID and ESP32 with real-time m
 | Red LED | GPIO 12 |
 | Buzzer | GPIO 14 |
 ---
+
+# Key Functions
+
+| Function Name | Description |
+|---|---|
+| `setup()` | Initializes hardware, WiFi, RFID, and Firebase |
+| `loop()` | Handles RFID scanning and attendance logging |
+| `getTimeStamp()` | Retrieves current date and time |
+| `instantBeep()` | Plays short buzzer sound |
+| `accessGranted()` | Indicates successful scan |
+| `accessDenied()` | Indicates failed scan |
+| `http.GET()` | Retrieves data from Firebase |
+| `http.POST()` | Sends attendance data to Firebase |
+| `deserializeJson()` | Parses Firebase JSON data |
+| `rfid.PICC_HaltA()` | Stops RFID communication after scan |
+
+---
