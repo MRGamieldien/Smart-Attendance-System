@@ -1,6 +1,6 @@
 # 👥 Group Members
 
-| Student Name | Student Number | Role / Responsibility |
+| Student Name | Role / Responsibility |
 |---|---|---|
 | Redah Gamieldien | Testing Lead |
 | Lyle Solomons | Software Lead |
