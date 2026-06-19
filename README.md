@@ -1,11 +1,11 @@
 # 👥 Group Members
 
-| Student Name | Student Number | Role / Responsibility |
-|---|---|---|
-| Redah Gamieldien | 222641681 | Testing Lead |
-| Lyle Solomons | 230123872 | Software Lead |
-| Qaasim Isaacs | 222544422 | Hardware Lead |
-| Ethan Williams | 221454780 | Documentation Lead |
+| Student Name | Role / Responsibility |
+|---|---|
+| Redah Gamieldien | Testing Lead |
+| Lyle Solomons | Software Lead |
+| Qaasim Isaacs | Hardware Lead |
+| Ethan Williams | Documentation Lead |
 
 ---
 
