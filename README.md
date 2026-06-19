@@ -125,3 +125,46 @@ We developed a **Smart Attendance System** using RFID and ESP32 with real-time m
 | `rfid.PICC_HaltA()` | Stops RFID communication after scan |
 
 ---
+
+## 🏭 Build Process (with photos)
+
+## Step 1: Install Esp32 to breadboard
+![Step 1](image/1.jpeg)
+
+## Step 2:  Install MFRC522 RFID Scanner to the breadboard
+![Step 2](image/2.jpeg)
+
+## Step 3:Connect Esp32 to MFRC522 RFID scanner
+![Step 3](image/3.jpeg)
+
+## Step 4: Install the Green LED with the appropriate Ohms resistor to the breadboard
+![Step 4](image/4.jpeg)
+
+## Step 5: Install the Red LED with the appropriate Ohms resistor to the breadboard
+![Step 5](image/5.jpeg)
+
+## Step 6: Mount the Buzzer into the breadboard
+![Step 6](image/6.jpeg)
+
+## Step 7: Set up database 
+![Step 7](image/7.jpeg)
+
+## Step 8: Ensure Database is capable of logging data
+![Step 8](image/8.jpeg)
+
+## Step 9: Basic UI to test if the front-end interacts with the backend
+![Step 9](image/9.jpeg)
+
+## Step 10: Final UI Dashboard
+![Step 10](image/10.1.jpeg)
+![Step 10](image/10.2.jpeg)
+![Step 10](image/10.3.jpeg)
+![Step 10](image/10.4.jpeg)
+## Step 11: Housing Unit Components
+![Step 11](image/11.jpeg)
+
+## Step 12: Complete Housing Unit Assembly
+![Step 12](image/12.jpeg)
+![Step 12](image/13.jpeg)
+
+---
